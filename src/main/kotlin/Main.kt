@@ -14,7 +14,7 @@ fun main() {
     )
 
     val solarSystem = rockPlanets + gasPlanets
-
+    
     var i = 0
 
     repeat(solarSystem.size) {
